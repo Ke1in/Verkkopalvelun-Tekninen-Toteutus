@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    transition: background-color 0.3s ease;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#colorText {
+    display: block;
+    font-size: 48px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#dateText {
+    margin-top: 20px;
+    font-size: 28px;
+}
