@@ -1,0 +1,8 @@
+1. WordPress on CMS, jolla voi luoda ja hallita verkkosivuja helposti.
+2. Esim. Wix, Squarespace, Weebly, Shopify
+3.
+WordPress.org: Tarvitsee oman webhotellin, täysi vapaus lisäosien kanssa, ei mainoksia sivustolla, verkkokauppa mahdollinen.
+WordPress.com: Valmiiksi isännöinti, muokattavuus rajoitettua ilman ostoa, voi olla mainoksia ilmaisversiossa, verkkokauppa vain maksullisessa versiossa.
+4. Ilmainen ja avoin lähdekoodi, helppokäyttöinen, Iso yhteisö, Laaja valikoima teemoja ja lisäosia.
+5. Vaatii teknistä osaamista, nopeus ja suorituskyky voi kärsiä heikosta webhotellista, sivua voi hidastaa jos on liian monta lisäosaa.
+6. Teemoilla, Mukauttimella, CSS;llä, Widgeteillä ja valikoilla.

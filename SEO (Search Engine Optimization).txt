@@ -1,0 +1,5 @@
+1. SEO (Search Engine Optimization);n avulla verkkosivua muokataan niin, että se löytyy paremmin hakukoneissa.
+2. Suuri osa netin liikenteestä tulee hakukoneiden kautta, tämä lisää kävijöitä ja näkyvyyttä.
+3. Sivustolla avainsanojen käyttö, alt-tekstit kuvissa, sivuston maininnat ja näkyvyys verkossa.
+4. Mitataan millä sijalla sivusto näkyy avainsanoja käyttäessä, kävijä määrä, kuinka moni klikkaa sivustoa.
+5. Sivuston nopeutta, koodirakennetta, SSL-suojausta.

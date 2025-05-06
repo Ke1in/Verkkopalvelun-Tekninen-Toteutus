@@ -1,0 +1,15 @@
+1. Kuvia ja malleja saa käyttää vain jos niihin on käyttöoikeus. laki suojaa kuvia, graafisia malleja ja verkkosivujen ulkoasua, luvaton kopiointi on kiellettyä.
+2. Tietojen keruussa ja säilytyksessä on seurattava GDPR;ää ja henkilötietolakia. Rekisteristä on laadittava rekisteriseloste ja tiedot on suojattava asianmukaisesti.
+3. Tietoja saa säilyttää vain niin kauan kuin on tarpeellista käyttötarkoitukseen nähden. Tämän jälkeen ne täytyy poistaa tai anonymisoida.
+4. General Data Protection Regulation on EU;n tietosuoja asetus, joka suojaa henkilötietoja ja säätelee niiden käsittelyä.
+5. Ne kertovat mitä tietoja kerätään, mihin niitä käytetään ja miten ne suojataan. Niitä ylläpitää rekisterinpitäjä.
+Selosteessa on vähintään: Rekisterinpitäjän tiedot, käsittelyn tarkoitus, Kerättävät tiedot, oikeusperuste, säilytysaika ja oikeudet.
+6. Esim:
+Autokauppa Oy, autotie 1, 000100 Helsinki, Y-tunnus: 1234567-8
+yhteishenkilö: tietosuoja@autokauppa.com
+tietojen käyttötarkoitus: markkinointi, huoltopalveluiden järjestys, ajoneuvojen myynti
+kerättävät tiedot: nimi, osoite, puhelinnumero, sähköposti, auton tiedot, asiakas tapahtumat
+oikeusperuste: sopimus, suostumus tai lakisääteinen velvoite
+tietojen säilytysaika: 5 vuotta viimeisestä kontaktista
+tietojen luovutus: tietoja ei luovuteta ulkopuolisille ilman suostumusta, paitsi lain vaatiessa
+rekisteröidyn oikeudet: tarkistaa tiedot, vaatia korjausta, poistamista tai siirtämistä
